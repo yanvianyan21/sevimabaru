@@ -1,0 +1,68 @@
+
+body{
+    background-color: #131D41;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+li{
+    color: #ffffff;
+    font-size: 15px;
+    list-style-type: none;
+    float: left;
+    margin-inline: 20px;
+}.a-nav{
+    text-decoration: none;
+    color: #ffffff;
+    font-family: 'poppins';
+}
+.a-learn{
+    color: #ff5c00;
+}
+p{
+    color: #ffffff;
+    font-family: 'poppins';
+}
+.p-logo{
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+.p-hero{
+    font-size: 54px;
+    margin-bottom: unset;
+}
+.btn-nav{
+    background-color: #ffffff;
+    color: #000000;
+    font-size: 15px;
+    padding: 10px 15px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    opacity: 0.8;
+}
+.btn-hero{
+    background-color: #ff5c00;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 50px;
+    cursor: pointer;
+    border: none;
+}
+.icon-jam{
+    display: flex;
+    align-items: start;
+    gap: 20px;
+}
+.p-jam-title{
+    font-size: 20px;
+    margin-top: unset;
+}
+.p-jam-deskripsi{
+
+}
